@@ -115,8 +115,7 @@ Serial.println("state");
 Serial.println(state1);
 oldvalue=newvalue;
 delay(1000);
-//Serial.println("oldvalue");
-//Serial.println(oldvalue);
+
 
 
 }
